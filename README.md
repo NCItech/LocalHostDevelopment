@@ -1,2 +1,3 @@
 # LocalHostDevelopment
-Place for localhost docs
+
+This repository keeps track of all of the development Newcomb Institute's Digital Research Internship has made towards Local Host Development.
